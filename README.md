@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0875-koko-eating-bananas](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1045-customers-who-bought-all-products](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/1045-customers-who-bought-all-products) |
 | [1280-students-and-examinations](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/1280-students-and-examinations) |
+## Binary Search
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
