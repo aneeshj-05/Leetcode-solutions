@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0875-koko-eating-bananas](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 ## Database
 |  |
 | ------- |
@@ -23,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
