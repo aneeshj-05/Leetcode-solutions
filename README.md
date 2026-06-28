@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Hash Table
 |  |
@@ -35,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0037-sudoku-solver) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Sorting
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
