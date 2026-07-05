@@ -93,16 +93,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0100-same-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0100-same-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0100-same-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0100-same-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
