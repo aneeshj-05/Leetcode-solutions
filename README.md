@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0198-house-robber](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0216-combination-sum-iii) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0216-combination-sum-iii) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0079-word-search) |
 ## Greedy
 |  |
 | ------- |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
@@ -84,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0086-partition-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
