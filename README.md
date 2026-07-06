@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0176-second-highest-salary) |
 | [1045-customers-who-bought-all-products](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/1045-customers-who-bought-all-products) |
 | [1280-students-and-examinations](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/1280-students-and-examinations) |
 ## Binary Search
