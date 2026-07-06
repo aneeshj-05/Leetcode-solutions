@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0169-majority-element](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [0169-majority-element](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0169-majority-element) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Database
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0169-majority-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## String
 |  |
@@ -112,4 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
