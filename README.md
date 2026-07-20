@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [1260-shift-2d-grid](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Hash Table
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0200-number-of-islands) |
+| [1260-shift-2d-grid](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0200-number-of-islands) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
