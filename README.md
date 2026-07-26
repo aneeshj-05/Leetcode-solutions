@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0097-interleaving-string) |
 | [0131-palindrome-partitioning](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0647-palindromic-substrings](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0097-interleaving-string) |
 | [0131-palindrome-partitioning](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0198-house-robber) |
+| [0647-palindromic-substrings](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0647-palindromic-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0086-partition-list) |
+| [0647-palindromic-substrings](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0647-palindromic-substrings) |
 ## Depth-First Search
 |  |
 | ------- |
