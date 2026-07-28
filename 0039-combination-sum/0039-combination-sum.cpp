@@ -1,20 +1,19 @@
 class Solution {
 public:
-    void all_comb(int i,vector<int> &can,int target,vector<int>&temp,vector<vector<int>> &res){
-        if(target==0){
+    void solve(vector<vector<int>> &res,vector<int> &c,int t,vector<int> &temp,int idx){
+        if(t==0){
             res.push_back(temp);
-            return;
-        }
-        if(i>=can.size() || target<0) return;
-        temp.push_back(can[i]);
-        all_comb(i,can,target-can[i],temp,res);
+            return;}
+        if(idx==c.size() || t<0) return;
+        temp.push_back(c[idx]);
+        solve(res,c,t-c[idx],temp,idx);
         temp.pop_back();
-        all_comb(i+1,can,target,temp,res);
+        solve(res,c,t,temp,idx+1);
     }
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
         vector<vector<int>> res;
         vector<int> temp;
-        all_comb(0,candidates,target,temp,res);
+        solve(res,candidates,target,temp,0);
         return res;
     }
 };
