@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0046-permutations) |
+| [0073-set-matrix-zeroes](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0169-majority-element](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0169-majority-element) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
