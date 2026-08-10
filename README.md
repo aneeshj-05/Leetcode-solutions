@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0169-majority-element) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0079-word-search) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Dynamic Programming
 |  |
