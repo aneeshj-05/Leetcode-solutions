@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0046-permutations) |
 | [0073-set-matrix-zeroes](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0169-majority-element](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0198-house-robber) |
@@ -224,11 +225,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
