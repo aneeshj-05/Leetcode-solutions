@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0176-second-highest-salary) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0577-employee-bonus) |
+| [0620-not-boring-movies](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0620-not-boring-movies) |
 | [1045-customers-who-bought-all-products](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/1045-customers-who-bought-all-products) |
 | [1280-students-and-examinations](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/1280-students-and-examinations) |
 ## Binary Search
