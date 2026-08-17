@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0577-employee-bonus) |
 | [0620-not-boring-movies](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0620-not-boring-movies) |
 | [1045-customers-who-bought-all-products](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/1045-customers-who-bought-all-products) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1193-monthly-transactions-i](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/1211-queries-quality-and-percentage) |
 | [1280-students-and-examinations](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/1280-students-and-examinations) |
