@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1193-monthly-transactions-i](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/1211-queries-quality-and-percentage) |
 | [1280-students-and-examinations](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/1280-students-and-examinations) |
+| [1341-movie-rating](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/1341-movie-rating) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Binary Search
 |  |
