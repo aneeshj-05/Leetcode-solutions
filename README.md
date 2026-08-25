@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-movie-rating](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/1341-movie-rating) |
 | [1527-patients-with-a-condition](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/1667-fix-names-in-a-table) |
+| [1907-count-salary-categories](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/1907-count-salary-categories) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Binary Search
 |  |
