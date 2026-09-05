@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0048-rotate-image) |
+| [0056-merge-intervals](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -299,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3904-smallest-stable-index-ii](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
