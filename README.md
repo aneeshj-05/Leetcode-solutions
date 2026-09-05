@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Heap (Priority Queue)
@@ -308,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0056-merge-intervals) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
