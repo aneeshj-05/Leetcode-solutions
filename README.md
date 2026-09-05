@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0169-majority-element) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0647-palindromic-substrings](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0647-palindromic-substrings) |
 ## Depth-First Search
 |  |
