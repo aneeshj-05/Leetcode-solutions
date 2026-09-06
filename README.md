@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0160-intersection-of-two-linked-lists](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -170,12 +171,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0086-partition-list](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0086-partition-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [1669-merge-in-between-linked-lists](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/1669-merge-in-between-linked-lists) |
 ## Two Pointers
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0160-intersection-of-two-linked-lists](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0647-palindromic-substrings](https://github.com/aneeshj-05/Leetcode-solutions/tree/master/0647-palindromic-substrings) |
 ## Depth-First Search
 |  |
